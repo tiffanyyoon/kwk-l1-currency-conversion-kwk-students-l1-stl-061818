@@ -1,7 +1,7 @@
 # Write your cod here
 def usd_to_eur
   usd = 1 
-  puts "#{usd}"x 0.86
+  puts "#{usd}"x .86
 end 
 
 def eur_to_usd
